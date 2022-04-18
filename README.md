@@ -1,4 +1,4 @@
-# chibits-dash
+# vue-tailwind-starter
 
 ## Project setup
 ```
